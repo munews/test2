@@ -48,6 +48,7 @@ h
 {
     font-weight: 1000;
 }
+
 .top
 {
     background-color: white;
@@ -60,13 +61,14 @@ h
 }
 .mij
 { 
+
     text-align: center;
     font-size: 20px;
     display: flex;
     align-items: center;
     justify-content: space-evenly;
     width: 90%;
-    height: 55%;
+    height: 90%;
     background-color: white;
     overflow-y: scroll;
 }
